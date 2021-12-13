@@ -1,0 +1,61 @@
+Uworld	0xB731340	
+Free Fortnite	0xC8FEE0	
+GObjects	0xB564050	
+GetBoneMatrix	0xCD02C8	
+LastFireTimeVerified	0x9E8	
+ProjectWorldLocationToScreen	0x7A8AC88	
+GetBoneMatrix	0xCD02C8	
+LineOfSightTo	0x7EA1708	
+Levels	0x148	
+LocalPlayers	0x38	
+OwningGameInstance	0x190	
+ControlRotation	0x290	
+PlayerCameraManager	0x2C0	
+AcknowledgedPawn	0x2A8	
+PlayerState	0x238	
+RootComponent	0x130	
+glow_object_manager	0x5318e18	
+Mesh	0x280	
+RelativeLocation	0x11C	
+ComponentVelocity	0x140	
+StaticMesh	0x488	
+ComponentToWorld	0x1C0	
+CachedWorldSpaceBounds	0x638	
+CustomTimeDilation	0x98	
+LastFireTimeVerified	0x9E8	
+LastFireTime	0x98	
+CustomTimeDilation	0x9E4	
+bIsDBNO	0x572	
+bIsDying	0x548	
+TeamIndex	0xF28	
+DisplayName	0x88	
+Tier	0x6C	
+ItemDefinition	0x98	
+CustomTimeDilation	0x18	
+CurrentWeapon	0x5F8	
+WeaponData	0x378	
+RemoteViewPitch	0x98	
+CustomTimeDilation	0x22A	
+LastFireAbilityTime	0x1238	
+WeaponStatHandle	0x8B8	
+FireStartLoc	0xB90	
+ReloadTime	0x10C	
+ReloadScale	0x10C	
+ReloadTime	0x110	
+ChargeDownTime	0x13C	
+RecoilHoriz	0x21C	
+RecoilVert	0x20C	
+RecoilDownsightsMultiplier	0x238	
+ReviveFromDBNOTime	0x3758	
+bADSWhileNotOnGround	0x3E51	
+WeaponReloadMontage	0x1298	
+Bone Array	0x488	
+LocalPlayer Chain	0xa8	
+Horizontal Camera	0x8f8	
+Vertical Camera	0x12C	
+LocalPlayer Chain	0x70	
+LocalPlayer Chain	0x98	
+LocalPlayer Chain	0x140	
+Virtual Delta	0x10	
+ProcessEvent Index	0x4B	
+Object ID	0x18
