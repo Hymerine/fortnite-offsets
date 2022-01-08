@@ -1,61 +1,60 @@
-Uworld	0xB731340	
-Free Fortnite	0xC8FEE0	
-GObjects	0xB564050	
-GetBoneMatrix	0xCD02C8	
-LastFireTimeVerified	0x9E8	
-ProjectWorldLocationToScreen	0x7A8AC88	
-GetBoneMatrix	0xCD02C8	
-LineOfSightTo	0x7EA1708	
-Levels	0x148	
-LocalPlayers	0x38	
-OwningGameInstance	0x190	
-ControlRotation	0x290	
-PlayerCameraManager	0x2C0	
-AcknowledgedPawn	0x2A8	
-PlayerState	0x238	
-RootComponent	0x130	
-glow_object_manager	0x5318e18	
-Mesh	0x280	
-RelativeLocation	0x11C	
-ComponentVelocity	0x140	
-StaticMesh	0x488	
-ComponentToWorld	0x1C0	
-CachedWorldSpaceBounds	0x638	
-CustomTimeDilation	0x98	
-LastFireTimeVerified	0x9E8	
-LastFireTime	0x98	
-CustomTimeDilation	0x9E4	
-bIsDBNO	0x572	
-bIsDying	0x548	
-TeamIndex	0xF28	
-DisplayName	0x88	
-Tier	0x6C	
-ItemDefinition	0x98	
-CustomTimeDilation	0x18	
-CurrentWeapon	0x5F8	
-WeaponData	0x378	
-RemoteViewPitch	0x98	
-CustomTimeDilation	0x22A	
-LastFireAbilityTime	0x1238	
-WeaponStatHandle	0x8B8	
-FireStartLoc	0xB90	
-ReloadTime	0x10C	
-ReloadScale	0x10C	
-ReloadTime	0x110	
-ChargeDownTime	0x13C	
-RecoilHoriz	0x21C	
-RecoilVert	0x20C	
-RecoilDownsightsMultiplier	0x238	
-ReviveFromDBNOTime	0x3758	
-bADSWhileNotOnGround	0x3E51	
-WeaponReloadMontage	0x1298	
-Bone Array	0x488	
-LocalPlayer Chain	0xa8	
-Horizontal Camera	0x8f8	
-Vertical Camera	0x12C	
-LocalPlayer Chain	0x70	
-LocalPlayer Chain	0x98	
-LocalPlayer Chain	0x140	
-Virtual Delta	0x10	
-ProcessEvent Index	0x4B	
-Object ID	0x18
+  World.Levels                                         ->   0x148
+  World.PersistentLevel                                ->   0x30
+  GameInstance.LocalPlayers                            ->   0x38
+  World.OwningGameInstance                             ->   0x190
+  Controller.ControlRotation                           ->   0x290
+  PlayerController.PlayerCameraManager                 ->   0x2C0
+  PlayerController.AcknowledgedPawn                    ->   0x2A8
+  Pawn.PlayerState                                     ->   0x238
+  Actor.RootComponent                                  ->   0x130
+  Character.Mesh                                       ->   0x280
+  SceneComponent.RelativeLocation                      ->   0x11C
+  SceneComponent.RelativeRotation                      ->   0x128
+  SceneComponent.ComponentVelocity                     ->   0x140
+  StaticMeshComponent.StaticMesh                       ->   0x488
+  SkinnedMeshComponent.CachedWorldSpaceBounds          ->   0x638
+  Actor.CustomTimeDilation                             ->   0x98
+  FortWeapon.LastFireTimeVerified                      ->   0x9E8
+  FortWeapon.LastFireTime                              ->   0x9E4
+  FortPawn.bIsDBNO                                     ->   0x572
+  FortPawn.bIsDying                                    ->   0x548
+  FortPlayerStateAthena.TeamIndex                      ->   0xF28
+  FortPickup.PrimaryPickupItemEntry                    ->   0x2A0
+  FortItemDefinition.DisplayName                       ->   0x88
+  FortItemDefinition.Tier                              ->   0x6C
+  FortItemEntry.ItemDefinition                         ->   0x18
+  FortPawn.CurrentWeapon                               ->   0x5F8
+  FortWeapon.WeaponData                                ->   0x378
+  Pawn.RemoteViewPitch                                 ->   0x22A
+  FortWeapon.LastFireAbilityTime                       ->   0x1238
+  FortWeaponItemDefinition.WeaponStatHandle            ->   0x8B8
+  FortProjectileAthena.FireStartLoc                    ->   0x8B8
+  FortBaseWeaponStats.ReloadTime                       ->   0x10C
+  FortBaseWeaponStats.ReloadScale                      ->   0x110
+  FortBaseWeaponStats.ChargeDownTime                   ->   0x13C
+  FortRangedWeaponStats.RecoilHoriz                    ->   0x21C
+  FortRangedWeaponStats.RecoilVert                     ->   0x20C
+  FortRangedWeaponStats.RecoilDownsightsMultiplier     ->   0x238
+  FortPlayerPawnAthena.ReviveFromDBNOTime              ->   0x3758
+  FortPlayerPawnAthena.bADSWhileNotOnGround            ->   0x3E51
+  FortWeapon.WeaponReloadMontage                       ->   0x1298
+  FortWeapon.ReloadAnimation                           ->   0x1268
+  FortPickup.PrimaryPickupItemEntry                    ->   0x2A0
+  FortWeapon.AmmoCount                                 ->   0xA70
+  BuildingContainer.bAlreadySearched                   ->   0xDF1
+  BuildingWeakSpot.bActive                             ->   0x248
+  FortPlayerStateAthena.SquadId                        ->   0x10AC
+  PlayerCameraManager.DefaultFOV                       ->   0x230
+  FortAthenaSKVehicle.SkeletalMesh.VehicleSkeletalMesh ->   0x46
+  SceneComponent.bComponentToWorldUpdated              ->   0x14C
+  FortWeaponStats.ClipSize                             ->   0x46
+  PlayerCameraManager.ViewTarget                       ->   0xF30
+  PlayerCameraManager.LastFrameCameraCachePrivate      ->   0x2270
+  PlayerCameraManager.CameraCachePrivate               ->   0x1C20
+  PlayerCameraManager.CameraCache                      ->   0x290
+  FortWeapon.bIsReloadingWeapon                        ->   0x2B1
+  FortWeapon.bDisableEquipAnimation                    ->   0x2B3
+  FortWeapon.LastReloadTime                            ->   0xA3C
+  FortWeapon.LastSuccessfulReloadTime                  ->   0xA40
+  FortWeapon.CurrentReloadDuration                     ->   0xA44
+  FortWeapon.bIsReloadingWeapon                        ->   0x2B1
