@@ -1,60 +1,58 @@
-  World.Levels                                         ->   0x148
+ World.Levels                                         ->   0x148
   World.PersistentLevel                                ->   0x30
   GameInstance.LocalPlayers                            ->   0x38
   World.OwningGameInstance                             ->   0x190
-  Controller.ControlRotation                           ->   0x290
-  PlayerController.PlayerCameraManager                 ->   0x2C0
-  PlayerController.AcknowledgedPawn                    ->   0x2A8
-  Pawn.PlayerState                                     ->   0x238
-  Actor.RootComponent                                  ->   0x130
-  Character.Mesh                                       ->   0x280
+  Controller.ControlRotation                           ->   0x298
+  PlayerController.PlayerCameraManager                 ->   0x2C8
+  PlayerController.AcknowledgedPawn                    ->   0x2B0
+  Pawn.PlayerState                                     ->   0x240
+  Actor.RootComponent                                  ->   0x138
+  Character.Mesh                                       ->   0x288
   SceneComponent.RelativeLocation                      ->   0x11C
-  SceneComponent.RelativeRotation                      ->   0x128
   SceneComponent.ComponentVelocity                     ->   0x140
-  StaticMeshComponent.StaticMesh                       ->   0x488
-  SkinnedMeshComponent.CachedWorldSpaceBounds          ->   0x638
-  Actor.CustomTimeDilation                             ->   0x98
-  FortWeapon.LastFireTimeVerified                      ->   0x9E8
-  FortWeapon.LastFireTime                              ->   0x9E4
-  FortPawn.bIsDBNO                                     ->   0x572
+  StaticMeshComponent.StaticMesh                       ->   0x490
+  StaticMeshComponent.bComponentToWorldUpdated         ->   0x0
+  SkinnedMeshComponent.CachedWorldSpaceBounds          ->   0x640
+  Actor.CustomTimeDilation                             ->   0x9C
+  FortWeapon.LastFireTimeVerified                      ->   0x9F8
+  FortWeapon.LastFireTime                              ->   0x9F4
+  FortPawn.bIsDBNO                                     ->   0x59A
   FortPawn.bIsDying                                    ->   0x548
-  FortPlayerStateAthena.TeamIndex                      ->   0xF28
-  FortPickup.PrimaryPickupItemEntry                    ->   0x2A0
+  FortPlayerStateAthena.TeamIndex                      ->   0xF50
+  FortPickup.PrimaryPickupItemEntry                    ->   0x2A8
   FortItemDefinition.DisplayName                       ->   0x88
   FortItemDefinition.Tier                              ->   0x6C
   FortItemEntry.ItemDefinition                         ->   0x18
-  FortPawn.CurrentWeapon                               ->   0x5F8
-  FortWeapon.WeaponData                                ->   0x378
-  Pawn.RemoteViewPitch                                 ->   0x22A
-  FortWeapon.LastFireAbilityTime                       ->   0x1238
+  FortPawn.CurrentWeapon                               ->   0x620
+  FortWeapon.WeaponData                                ->   0x388
+  Pawn.RemoteViewPitch                                 ->   0x232
+  FortWeapon.LastFireAbilityTime                       ->   0x1248
   FortWeaponItemDefinition.WeaponStatHandle            ->   0x8B8
-  FortProjectileAthena.FireStartLoc                    ->   0x8B8
+  FortProjectileAthena.FireStartLoc                    ->   0x8C8
   FortBaseWeaponStats.ReloadTime                       ->   0x10C
   FortBaseWeaponStats.ReloadScale                      ->   0x110
   FortBaseWeaponStats.ChargeDownTime                   ->   0x13C
   FortRangedWeaponStats.RecoilHoriz                    ->   0x21C
   FortRangedWeaponStats.RecoilVert                     ->   0x20C
   FortRangedWeaponStats.RecoilDownsightsMultiplier     ->   0x238
-  FortPlayerPawnAthena.ReviveFromDBNOTime              ->   0x3758
-  FortPlayerPawnAthena.bADSWhileNotOnGround            ->   0x3E51
-  FortWeapon.WeaponReloadMontage                       ->   0x1298
-  FortWeapon.ReloadAnimation                           ->   0x1268
-  FortPickup.PrimaryPickupItemEntry                    ->   0x2A0
-  FortWeapon.AmmoCount                                 ->   0xA70
-  BuildingContainer.bAlreadySearched                   ->   0xDF1
-  BuildingWeakSpot.bActive                             ->   0x248
-  FortPlayerStateAthena.SquadId                        ->   0x10AC
-  PlayerCameraManager.DefaultFOV                       ->   0x230
+  FortPlayerPawnAthena.ReviveFromDBNOTime              ->   0x37D8
+  FortPlayerPawnAthena.bADSWhileNotOnGround            ->   0x3F41
+  FortWeapon.WeaponReloadMontage                       ->   0x12B8
+  FortWeapon.ReloadAnimation                           ->   0x1288
+  FortPickup.PrimaryPickupItemEntry                    ->   0x2A8
+  FortWeapon.AmmoCount                                 ->   0xA80
+  BuildingContainer.bAlreadySearched                   ->   0xE31
+  BuildingWeakSpot.bActive                             ->   0x250
+  FortPlayerStateAthena.SquadId                        ->   0x1124
+  PlayerCameraManager.DefaultFOV                       ->   0x238
   FortAthenaSKVehicle.SkeletalMesh.VehicleSkeletalMesh ->   0x46
-  SceneComponent.bComponentToWorldUpdated              ->   0x14C
   FortWeaponStats.ClipSize                             ->   0x46
   PlayerCameraManager.ViewTarget                       ->   0xF30
   PlayerCameraManager.LastFrameCameraCachePrivate      ->   0x2270
   PlayerCameraManager.CameraCachePrivate               ->   0x1C20
   PlayerCameraManager.CameraCache                      ->   0x290
-  FortWeapon.bIsReloadingWeapon                        ->   0x2B1
-  FortWeapon.bDisableEquipAnimation                    ->   0x2B3
-  FortWeapon.LastReloadTime                            ->   0xA3C
-  FortWeapon.LastSuccessfulReloadTime                  ->   0xA40
-  FortWeapon.CurrentReloadDuration                     ->   0xA44
-  FortWeapon.bIsReloadingWeapon                        ->   0x2B1
+  FortWeapon.bIsReloadingWeapon                        ->   0x2C1
+  FortWeapon.bDisableEquipAnimation                    ->   0x2C3
+  FortWeapon.LastReloadTime                            ->   0xA4C
+  FortWeapon.LastSuccessfulReloadTime                  ->   0xA50
+  FortWeapon.CurrentReloadDuration                     ->   0xA54
